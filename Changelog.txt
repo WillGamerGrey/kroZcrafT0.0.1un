@@ -1,0 +1,3 @@
+.LOG
+9:25 AM 10/23/2016
+This is a pre release prototype of kroZcrafT. May experience bugs.
